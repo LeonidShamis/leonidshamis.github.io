@@ -1,2 +1,1 @@
-# leonidshamis.github.io
-github.io test repository
+# https://leonidshamis.github.io/ GitHub Pages site
